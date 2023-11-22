@@ -6,6 +6,7 @@ function init() {
     const buttonCalculate = document.getElementById("estimateBtn");
     buttonCalculate.onclick = buttonCalculateClick;
 }
+
 function buttonCalculateClick() {
    
     // Get input Values
